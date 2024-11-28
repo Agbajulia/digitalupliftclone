@@ -76,3 +76,35 @@ button{
     /* height: 991px; */
     border-radius: 12px 120px 12px 12px;
 }
+.section2{
+    background: url('images/digital.png');
+    background-position: center;
+    background-size: cover;
+    padding: 10% 3.6%;
+    display: flex;
+    justify-content: center;
+    /* aligxn-items: center; */
+}
+.herosection2{
+    display: flex;
+    padding: 10% 4%;
+    flex-direction: column;
+    background: #fff;
+    width: 80%;
+    height: 75%;
+}
+.herosection2 h2{
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 25.6px;
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+}
+.herosection2 p{
+    font-size: 16px;
+    color: #0e0a23;
+    line-height: 25.6px;
+    /* text-wrap: wrap; */
+    text-align: center;
+}
